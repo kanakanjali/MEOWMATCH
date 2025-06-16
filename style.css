@@ -1,0 +1,115 @@
+.gradient-bg {
+  background: linear-gradient(to right, #fbb1f6, #b3c8f7);
+  min-height: 100vh;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  display: flex;
+  align-items: flex-start;
+  margin-top: -20px; 
+}
+
+.main-title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.subtext {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+.btn-cta {
+  background-color: #ff4eb5;
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 30px;
+  font-size: 1rem;
+}
+
+.btn-cta:hover {
+  background-color: #e03c9a;
+}
+
+.profile-img {
+  max-width: 100%;
+  height: 600px;
+  border-radius: 20px; 
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover; 
+}
+
+body {
+  margin: 0;
+  padding: 0%;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+.phone-img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 30px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+#footer h5 {
+  font-size: 1.5rem;
+}
+
+#footer .nav-link {
+  font-size: 1.2rem;
+}
+
+#footer p {
+  font-size: 1.1rem;
+}
+
+#footer {
+  text-align: center;
+  padding: 20px 0; 
+  color: #000;
+}
+
+.download-highlight {
+  background-color: #ff69b4;     
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.download-highlight:hover {
+  background-color: #e91e63;
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+.black-caption {
+  color: #000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color:whitesmoke!important;
+  color: black !important;
+}
+
+
+
+
