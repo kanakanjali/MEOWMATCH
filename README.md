@@ -21,8 +21,7 @@ This project is part of my early web development journey, and MeowMatch reflects
 . Deploying static websites using GitHub Pages  
 . Organizing project files and using version control (Git)  
 
-  🌟 Reflections
-MeowMatch is a small but meaningful step in my web development journey. I’m excited to keep learning, improving, and building fun, creative projects along the way.
+🌟 MeowMatch is a small but meaningful step in my web development journey. I’m excited to keep learning, improving, and building fun, creative projects along the way.
 
 If you explore the project and have any feedback or suggestions, I’d love to hear from you!  
-And if you liked it, consider giving the repo a ⭐ — it really motivates me to keep going! 🐱💬
+And if you enjoyed it or found it helpful, feel free to star the repo — your support truly motivates me to keep building! 🐱💬
