@@ -62,25 +62,6 @@ body {
   height: 3rem;
   border-radius: 0.75rem;
 }
-
-#footer h5 {
-  font-size: 1.5rem;
-}
-
-#footer .nav-link {
-  font-size: 1.2rem;
-}
-
-#footer p {
-  font-size: 1.1rem;
-}
-
-#footer {
-  text-align: center;
-  padding: 20px 0; 
-  color: #000;
-}
-
 .download-highlight {
   background-color: #ff69b4;     
   color: white;
@@ -109,6 +90,30 @@ html {
   background-color:whitesmoke!important;
   color: black !important;
 }
+#footer {
+  background: linear-gradient(to right, #fbb1f6, #b3c8f7); 
+  padding: 20px 0;
+  color: black; 
+}
+
+#footer a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+#footer a:hover {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
 
 
 
