@@ -2,7 +2,7 @@
 MeowMatch is a playful and beginner-friendly web project created for cat enthusiasts. It showcases a clean, responsive layout built with basic HTML and CSS, designed to help me practice and explore front-end development.  
 This project is part of my early web development journey, and MeowMatch reflects both creativity and learning in progress.
 
-🌐 Live Demo: https://kanakanjali.github.io/MEOWMATCH
+🌐 Live Demo: https://kanakanjali.github.io/MEOWMATCH/
 
 🧰 Tools Used  
 . HTML  
