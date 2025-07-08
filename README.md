@@ -26,5 +26,6 @@ https://kanakanjali.github.io/MEOWMATCH/
 
 ## 🌟 Final Thoughts
 **MeowMatch** may be a small project, but it's a meaningful milestone in my learning journey. Each section, style, and commit reflects something new I’ve discovered about web development.
+
 If you take a moment to explore it, I’d love to hear your thoughts or suggestions!  
 And if the project made you smile or helped you in any way, feel free to ⭐ star the repo — every bit of encouragement helps me stay motivated to build and grow! 🐱💬
